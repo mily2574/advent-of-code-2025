@@ -1,0 +1,18 @@
+
+---
+
+## 🙈 .gitignore per Go
+
+```gitignore
+# Go
+/bin/
+*.exe
+*.test
+*.out
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
