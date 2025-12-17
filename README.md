@@ -1,3 +1,6 @@
-# Advent of Code
+# Advent of Code 2025
 
-Solutions in Go for Advent od Code 2025
+Solutions in Go
+
+## Puzzle
+[Day 1] (https://adventofcode.com/2025/day/1)
