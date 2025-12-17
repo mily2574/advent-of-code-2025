@@ -85,8 +85,7 @@ func part2(input string) int {
 			break
 		}
 
-		/*
-			We can use the iteration with a FOR:
+		/*	We can use the iteration with a FOR:
 			for i := 0; i < num; i++ {
 				if dir == 'R' {
 					start = (start + 1) % 100
